@@ -32,3 +32,5 @@ The library supports
     * Anchored Spring
     * Unanchored Spring
 * Standalone tests for particles and rigidbodies - just to make sure the library seems to be working
+
+Please visit https://github.com/mjchao/Physics-Engine-Demos for some more sophisiticated uses of this library
