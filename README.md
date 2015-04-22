@@ -12,6 +12,8 @@ The library supports
   * Forces
     * Drag
     * Gravity
+    * Cable (prevents objects from getting too far apart)
+    * Rod (prevents objects from getting too far and too close)
     * Anchored Bungee
     * Unanchored Bungee
     * Buoyancy
