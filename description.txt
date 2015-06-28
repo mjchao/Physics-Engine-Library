@@ -1,2 +1,0 @@
-screwed up everything while trying to add friction impulses. deciding to 
-not implement friction
